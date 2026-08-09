@@ -1,2 +1,4 @@
 get the user data
 read input
+
+Creating an avatar for user.
